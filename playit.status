@@ -1,1 +1,546 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mGot Error
+MSG: Failed to setup tunnel client
+Error[2J8[0mstarting up tunnel con[2J8[0mtunnel running[2J8[0mplayit (v0.15.23): 1726440331368 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations[2J8[0mplayit (v0.15.23): 1726440332895 tunnel running[2J8[0mplayit (v0.15.23): 1726440334424 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations[2J8[0mplayit (v0.15.23): 1726440335961 tunnel running[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726440349510 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations[2J8[0mplayit (v0.15.23): 1726440351060 tunnel running[2J8[0mplayit (v0.15.23): 1726440352578 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations[2J8[0mplayit (v0.15.23): 1726440354145 tunnel running[2J8[0mplayit (v0.15.23): 1726440355633 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Er[2J8[0mplayit (v0.15.23): 17264[2J8[0mplayit (v0.15.23): 1726440363218 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726440378310 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726440381383 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726440384462 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726440399556 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726440402614 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726440405680 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726440408817 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726440423918 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726440426973 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726440430032 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726440433091 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726440436150 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726440451251 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726440454311 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726440457372 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726440472470 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726440475533 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726440478592 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726440481659 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726440484718 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726440499822 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726440502925 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726440506005 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726440509080 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726440512144 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726440527250 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726440530316 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726440533373 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726440536434 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726440539491 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726440554594 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726440557657 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726440560720 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726440563778 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726440566839 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726440570251 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726440573319 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726440576418 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726440579636 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726440582725 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726440585876 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726440588940 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726440604036 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726440607092 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726440610158 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726440613218 tunnel running[2J8[0mplayit (v0.15.23): 1726440613941 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations[2J8[0mplayit (v0.15.23): 1726440616275 tunnel running[2J8[0mplayit (v0.15.23): 1726440616998 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations[2J8[0mplayit (v0.15.23): 1726440619335 tunnel running[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726440632098 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726440635155 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726440644244 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726440647306 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726440650373 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726440653429 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726440656491 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726440659555 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations[2J8[0mplayit (v0.15.23): 1726440667918 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726440683005 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726440698102 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726440701164 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726440716252 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726440731351 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726440746438 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726440749496 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726440776615 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726440779675 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726440794765 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726440809848 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726440824944 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726440840029 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726440855131 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726440858192 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726440873277 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726440888378 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726440903469 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+stered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726440811539 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726440838676 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726440841745 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726440856850 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726440871938 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726440874998 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726440890094 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726440905182 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
