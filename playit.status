@@ -478,19 +478,17 @@ locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-stered
+[2J8[0mplayit (v0.15.23): 1726440918591 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726440811539 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726440921649 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
+(TooManyRequests)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
@@ -544,3 +542,8 @@ locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726440920282 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
