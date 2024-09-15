@@ -101,8 +101,15 @@ Error: ClientError(TooManyRequests)
 
 TUNNELS
 locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-t-java)
-[2J8[0mplayit (v0.15.23): 1726436634831 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+UNNELS
+locations-dock.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726436649939 tunnel running, 1 tunnels registered
 
 
 TUNNELS
